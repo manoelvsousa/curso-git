@@ -9,6 +9,10 @@ namespace projeto_teste
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
